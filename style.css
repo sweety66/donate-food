@@ -80,6 +80,7 @@ ul{
     border-left: none;
     border-right: none;
     text-align: center;
+    padding-bottom: 8px
 }
 .donate-button{
     margin-left: 316px;
@@ -108,17 +109,64 @@ ul{
 .plan-education{
     background-color: #FFF4D6;
 }
-footer{
-    background-color: #121212;
-    padding: 50px 0;
+.half-width1{
+   background-image: url("./images/join.jpg");
+   width: 40%;
+    height: 500px;
 }
-footer h2{
-    font-family: 'Lobster';
-    font-style: italic;
-    font-size: 36px;
-    line-height: 44px;
-    color: #FF5959;
+.join-us{
+    margin-top: 100px;
+}
+.overlay{
+    background-color: #c69596b8;
+    height: 500px;
+}
+.h-join{
+    font-size: 55px;
+    color: #f4efef;
+    padding-top: 3.5em;
     text-align: center;
+    ;
+}
+.half-width2{
+    width: 60%;
+    background-color: #121212;
+    float: right;
+    margin-top: -500px;
+    padding-bottom: 100px;
+}
+.half-width2 h2{
+    color: #fff;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 65px;
+}
+.half-width2 h3{
+    color: #484e59;
+    margin-left: 100px;
+    margin-top: -15px;
+}
+.half-width2 p{
+    text-align: justify;
+    font-size: 16px;
+    color: #6b7483;
+    line-height: 1.8em;
+    margin-left: 100px;
+    margin-top: 35px;
+    padding-bottom: 63px;
+}
+.btn-regi{
+    text-decoration: none;
+    color: #ed3237;
+    border: 2px solid #ed3237;
+    background-color: transparent;
+    padding: 18px 38px;
+    text-transform: uppercase;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+.updates{
+    clear: both;
 }
 .updates h1{
     color: #121212;
@@ -140,13 +188,12 @@ form{
     margin-left: 36px;
 }
 .email{
+    width: 275px;
     border: none;
     padding: 16px;
-    width: 275px;
     background: #D9D9D9;
     border-radius: 5px 0px 0px 5px;
     position: absolute;
-    /* text-align: center; */
     margin-top: 74px;
     margin-left: 147px;
 }
@@ -156,6 +203,18 @@ form{
     font-size: 16px;
     margin-left: 454px;
     margin-top: 74px;
+}
+footer{
+    background-color: #121212;
+    padding: 50px 0;
+}
+footer h2{
+    font-family: 'Lobster';
+    font-style: italic;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FF5959;
+    text-align: center;
 }
 footer p{
     font-family: 'Manrope';
