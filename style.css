@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    background-image: url("./images/header-bg.jpg");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 175px 0;
+}
+h1{
+    font-size: 65px;
+    color: #FFFFFF;
+    text-align: center;
+}
+p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    font-style: normal;
+    margin-top: -33px;
+}
+button{
+    margin-left: 716px;
+    padding: 16px 12px;
+    background: #FF5959;
+    border-radius: 5px;
+    color: #FFFFFF;
+    border: none;
+    font-size: 20px;
+    line-height: 24px;
+}
