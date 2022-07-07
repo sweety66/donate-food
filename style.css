@@ -108,3 +108,21 @@ ul{
 .plan-education{
     background-color: #FFF4D6;
 }
+footer{
+    background-color: #121212;
+    padding: 50px 0;
+}
+footer h2{
+    font-family: 'Lobster';
+    font-style: italic;
+    /* font-weight: 400; */
+    font-size: 36px;
+    line-height: 44px;
+    /* letter-spacing: 0.5px; */
+    color: #FF5959;
+    text-align: center;
+}
+footer p{
+    font-family: 'Manrope';
+    font-size: 14px;
+}
