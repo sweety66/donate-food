@@ -33,3 +33,54 @@ button{
     font-size: 20px;
     line-height: 24px;
 }
+.donate-today{
+   padding: 115px 0;
+}
+.donate-today h1{
+    color: #121212;
+    font-size: 45px;
+}
+.donate-today p{
+    color: #707070;
+}
+.amount{
+    padding-left: 311px;
+    margin-top: 45px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+}
+.quantity{
+    width: 135px;
+    background: #f4efef;
+    border-radius: 5px;
+    padding: 52px 0;
+    margin-left: 23px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    color: #707070;
+}
+#dfrt-quantity{
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
+.input{
+    padding-left: 372px;
+    padding-top: 50px;
+}
+.input input{
+    width: 765px;
+    border: 1px solid #DADADA;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+}
+.donate-button{
+    margin-left: 316px;
+    margin-top: 30px;
+}
