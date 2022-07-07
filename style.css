@@ -34,7 +34,7 @@ button{
     line-height: 24px;
 }
 .donate-today{
-   padding: 115px 0;
+   padding-top: 50px;
 }
 .donate-today h1{
     color: #121212;
@@ -42,6 +42,7 @@ button{
 }
 .donate-today p{
     color: #707070;
+    margin-top: 20px;
 }
 .amount{
     padding-left: 311px;
@@ -83,4 +84,27 @@ ul{
 .donate-button{
     margin-left: 316px;
     margin-top: 30px;
+}
+.donation{
+    display: flex;
+    padding-left: 89px;
+    margin-top: 60px;
+}
+.our-plans{
+    display: inline-block;
+    width: 360px;
+    background-color: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+    padding: 60px 23px;
+    margin-left: 24px;
+}
+.our-plans p{
+    font-size: 16px;
+    text-align: justify;
+}
+.plan-shelter{
+    background-color: rgba(255, 89, 89, 0.1);;
+}
+.plan-education{
+    background-color: #FFF4D6;
 }
